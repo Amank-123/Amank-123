@@ -83,29 +83,30 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 
 ---
 
-# GitHub Statistics
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amank-123&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
+
 
 ---
 
-# GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Amank-123&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Amank-123&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -115,25 +116,26 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 
 ---
 
-# Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **Auctify** | Real-time AI-powered auction marketplace with live bidding, Redis Pub/Sub, BullMQ, Socket.IO and Razorpay integration. |
-| **Leave & Attendance Management System** | Enterprise leave management platform built with Spring Boot and modern backend architecture. |
-| **Portfolio Website** | Personal portfolio showcasing projects, skills, and technical experience. |
+## 🚀 Featured Projects
 
+### 🚀 Auctify
+AI-powered real-time auction marketplace with live bidding, Redis, BullMQ, Socket.IO, Razorpay, and an intelligent RAG assistant.
+
+### 📦 Ninja Deliveries
+Production mobile platform featuring rider, customer, and admin applications with QR validation, coupon workflows, and real-time synchronization.
+
+### ⚡ Powerledger
+Energy trading platform built with a focus on scalable frontend architecture, reusable components, and seamless API integration.
 ---
 
-# Currently Learning
+## 🌱 Currently Learning
 
+- Java & Advanced Collections
 - Spring Boot
-- Microservices
-- System Design
-- Kafka
-- Kubernetes
-- AWS
-
+- Docker
+- Backend System Design
+- Scalable Backend Architecture
 ---
 
 # Let's Connect
