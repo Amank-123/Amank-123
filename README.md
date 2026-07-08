@@ -1,41 +1,55 @@
 <div align="center">
 
-# Aman Kumar
+# Hi 👋, I'm Aman Kumar
 
 ### Backend-Focused Full Stack Software Developer
 
-Building scalable backend systems with **Java, Spring Boot, Node.js, Express, Redis, MongoDB**, and modern web technologies.
+Building scalable backend systems with **Java • Spring Boot • Node.js • Express • Redis • MongoDB**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://portfolio-aman-kumar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aman-kumar-a58388277)
-[![Email](https://img.shields.io/badge/Email-akaman0055%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:akaman0055@gmail.com)
+<p>
+<a href="mailto:akaman0055@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aman-kumar-a58388277">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-aman-kumar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Amank-123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I'm a backend-focused software developer passionate about designing scalable applications and solving real-world engineering problems.
+I'm a **Backend-Focused Full Stack Developer** passionate about building scalable, secure, and production-ready software.
 
-My primary interests lie in backend architecture, distributed systems, REST API development, real-time applications, authentication, background job processing, and database design.
+I enjoy designing REST APIs, implementing authentication & authorization, building real-time applications, optimizing backend performance, and solving engineering problems through clean architecture.
 
-Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System Design**, and **Microservices** while continuing to build production-ready applications.
-
----
-
-# Current Focus
-
-- Building scalable backend applications
-- Spring Boot & Java ecosystem
-- System Design
-- Microservices Architecture
-- Distributed Systems
-- Backend Performance Optimization
+Currently, I'm focused on mastering **Java**, **Spring Boot**, **Docker**, and **Backend System Design** while continuously improving through production projects and problem-solving.
 
 ---
 
-# Tech Stack
+# 🎯 Current Focus
+
+- 🚀 Backend Engineering
+- ☕ Java & Spring Boot
+- 🐳 Docker
+- 🏗 Backend System Design
+- ⚡ Writing scalable REST APIs
+- 📚 Data Structures & Algorithms
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -46,7 +60,7 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
 </p>
 
 ### Frontend
@@ -61,7 +75,7 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase"/>
 </p>
 
-### Developer Tools
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
@@ -69,34 +83,30 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 
 ---
 
-# Engineering Interests
+# ⚙ Engineering Interests
 
 - Backend Development
-- REST APIs
+- REST API Design
 - Authentication & Authorization
 - Database Design
 - Distributed Systems
 - Real-Time Applications
-- Queue Processing
-- Cloud Integrations
+- Redis
+- Socket.IO
+- BullMQ
 - AI-powered Backend Services
 
 ---
 
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amank-123&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amank-123&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
-
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -106,41 +116,50 @@ Currently, I'm strengthening my expertise in **Java**, **Spring Boot**, **System
 
 ---
 
-## 📈 Contribution Graph
+# 🚀 Featured Projects
 
-<p align="center">
+## 🚀 Auctify
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amank-123&theme=github-dark"/>
+A scalable AI-powered auction marketplace featuring live bidding, Redis Pub/Sub, BullMQ, Socket.IO, Razorpay integration, and an intelligent RAG assistant built using LangChain and Pinecone.
 
-</p>
+**Tech Stack**
+
+React • Node.js • Express • FastAPI • MongoDB • Redis • BullMQ • Socket.IO • LangChain • Pinecone • Razorpay
 
 ---
 
+## 📦 Ninja Deliveries
 
-## 🚀 Featured Projects
+Contributed to production-ready Rider, Customer, and Admin applications with QR-based order validation, referral systems, coupon workflows, and real-time synchronization using React Native and Firebase.
 
-### 🚀 Auctify
-AI-powered real-time auction marketplace with live bidding, Redis, BullMQ, Socket.IO, Razorpay, and an intelligent RAG assistant.
+**Tech Stack**
 
-### 📦 Ninja Deliveries
-Production mobile platform featuring rider, customer, and admin applications with QR validation, coupon workflows, and real-time synchronization.
+React Native • Firebase • Firestore • Expo
 
-### ⚡ Powerledger
-Energy trading platform built with a focus on scalable frontend architecture, reusable components, and seamless API integration.
 ---
 
-## 🌱 Currently Learning
+## ⚡ Powerledger
 
-- Java & Advanced Collections
+Built responsive frontend modules and reusable UI components while integrating APIs for an energy trading platform with a focus on performance and maintainability.
+
+**Tech Stack**
+
+React.js • JavaScript • REST APIs
+
+---
+
+# 🌱 Currently Learning
+
+- Java (Advanced)
 - Spring Boot
 - Docker
 - Backend System Design
-- Scalable Backend Architecture
+
 ---
 
-# Let's Connect
+# 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:akaman0055@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -150,7 +169,7 @@ Energy trading platform built with a focus on scalable frontend architecture, re
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-aman-kumar.netlify.app/">
+<a href="https://portfolio-aman-kumar.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -164,6 +183,8 @@ Energy trading platform built with a focus on scalable frontend architecture, re
 
 <div align="center">
 
-*"Great software is built with simplicity, scalability, and reliability in mind."*
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."*
 
 </div>
