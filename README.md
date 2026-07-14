@@ -1,190 +1,113 @@
 <div align="center">
 
-# Hi 👋, I'm Aman Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:2E6F95&height=200&section=header&text=Aman%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-### Backend-Focused Full Stack Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2E6F95&center=true&vCenter=true&width=560&lines=Java+%2B+Spring+Boot+backend+builder;Real-time+systems+%26+REST+APIs;Currently+diving+into+system+design" alt="Typing SVG" />
 
-Building scalable backend systems with **Java • Spring Boot • Node.js • Express • Redis • MongoDB**
+<br/>
 
-<p>
-<a href="mailto:akaman0055@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:akaman0055@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aman-kumar-a58388277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-aman-kumar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Amank-123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/aman-kumar-a58388277">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://portfolio-aman-kumar.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Amank-123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Amank-123&color=2E6F95&style=flat-square&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## 🧭 About Me
 
-I'm a **Backend-Focused Full Stack Developer** passionate about building scalable, secure, and production-ready software.
+I'm a Full-Stack Developer who leans backend-first — I like the part of a product most people never see: the APIs, the data flow, the systems that keep everything synced and running under load.
 
-I enjoy designing REST APIs, implementing authentication & authorization, building real-time applications, optimizing backend performance, and solving engineering problems through clean architecture.
+Right now I'm deepening my backend fundamentals with **Java**, **Spring Boot**, **Docker**, and system design, while working professionally with the **Node.js / React** stack.
 
-Currently, I'm focused on mastering **Java**, **Spring Boot**, **Docker**, and **Backend System Design** while continuously improving through production projects and problem-solving.
+- 🌍 Based in Himachal Pradesh, India
+- 🎓 BCA graduate, Sardar Patel University
+- 💼 Currently a Frontend Developer Intern at Wecodepros, building e-commerce workflows on Shopify Hydrogen
+- 🧠 Interested in real-time systems, distributed workflows, and clean API design
 
----
+<br/>
 
-# 🎯 Current Focus
+## 🛠️ Tech Stack
 
-- 🚀 Backend Engineering
-- ☕ Java & Spring Boot
-- 🐳 Docker
-- 🏗 Backend System Design
-- ⚡ Writing scalable REST APIs
-- 📚 Data Structures & Algorithms
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
+**Languages & Core**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,js,python"/>
-</p>
+<br/>
+<sub>Java & JavaScript — primary. Python — working knowledge.</sub>
+<br/><br/>
 
-### Backend
-
-<p>
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi"/>
-</p>
 
-### Frontend
+</td>
+<td valign="top" width="50%">
 
-<p>
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
-</p>
+<br/><br/>
 
-### Databases
+**Databases & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase,git,docker,postman"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase"/>
-</p>
+</td>
+</tr>
+</table>
 
-### Tools & Technologies
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
-</p>
+## 🚀 What I've Built
 
----
+**[Auctify](https://github.com/Amank-123)** — a real-time auction platform, and my deepest dive into concurrency so far. The core problem was keeping bid state consistent when multiple users bid on the same item at once — solved with Redis Pub/Sub for live state sync and BullMQ for scheduling delayed bid closes. Also layered in a RAG-based support assistant using LangChain + Pinecone so buyers/sellers get contextual answers pulled from real product data instead of a generic chatbot.
 
-# ⚙ Engineering Interests
+**Ninja Deliveries** — during my internship, I worked on the Rider and Customer apps (React Native + Firebase) serving 1K+ users. Shipped QR-based order verification that cut delivery-confirmation errors and built the coupon/referral system from the ground up, including the real-time sync so rewards reflect instantly across devices.
 
-- Backend Development
-- REST API Design
-- Authentication & Authorization
-- Database Design
-- Distributed Systems
-- Real-Time Applications
-- Redis
-- Socket.IO
-- BullMQ
-- AI-powered Backend Services
+**Powerledger** — contributed frontend modules for an energy-trading platform, focused on turning API responses into fast, reusable UI components rather than one-off pages.
 
----
+<br/>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amank-123&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amank-123&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Amank-123&theme=github-dark&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Amank-123&theme=onedark&no-frame=true&row=1&column=6&margin-w=12"/>
 </p>
 
----
+<br/>
 
-# 🚀 Featured Projects
-
-## 🚀 Auctify
-
-A scalable AI-powered auction marketplace featuring live bidding, Redis Pub/Sub, BullMQ, Socket.IO, Razorpay integration, and an intelligent RAG assistant built using LangChain and Pinecone.
-
-**Tech Stack**
-
-React • Node.js • Express • FastAPI • MongoDB • Redis • BullMQ • Socket.IO • LangChain • Pinecone • Razorpay
-
----
-
-## 📦 Ninja Deliveries
-
-Contributed to production-ready Rider, Customer, and Admin applications with QR-based order validation, referral systems, coupon workflows, and real-time synchronization using React Native and Firebase.
-
-**Tech Stack**
-
-React Native • Firebase • Firestore • Expo
-
----
-
-## ⚡ Powerledger
-
-Built responsive frontend modules and reusable UI components while integrating APIs for an energy trading platform with a focus on performance and maintainability.
-
-**Tech Stack**
-
-React.js • JavaScript • REST APIs
-
----
-
-# 🌱 Currently Learning
-
-- Java (Advanced)
-- Spring Boot
-- Docker
-- Backend System Design
-
----
-
-# 🤝 Let's Connect
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="mailto:akaman0055@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aman-kumar-a58388277">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-aman-kumar.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Amank-123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/Amank-123/Amank-123/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
----
+<sub>Animated view of my contribution graph — set up via the GitHub Action in <code>snake-workflow.yml</code> (included alongside this file). One-time setup, see notes below.</sub>
 
-<div align="center">
+<br/>
 
-### ⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
 
-*"Always learning. Always building. Always improving."*
+I'm always up for talking backend architecture, system design, or just trading notes on what you're building.
 
-</div>
+<p align="center">
+<a href="mailto:akaman0055@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aman-kumar-a58388277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-aman-kumar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6F95,100:1F2A44&height=100&section=footer&animation=fadeIn" width="100%"/>
