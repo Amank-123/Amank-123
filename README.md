@@ -77,16 +77,24 @@ Right now I'm deepening my backend fundamentals with **Java**, **Spring Boot**, 
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E6F95,100:1F2A44&height=3&section=header" width="100%"/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amank-123&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amank-123&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=Amank-123&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amank-123&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amank-123&theme=onedark&no-frame=true&row=1&column=6&margin-w=12"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amank-123&theme=github-dark&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Amank-123&theme=onedark&no-frame=true&row=1&column=6&margin-w=12"/>
+</p>
+
+<sub>⚠️ Card sources note: I moved the main stats/top-languages cards off the old <code>github-readme-stats.vercel.app</code> domain — that project is now unmaintained and its shared public instance has been intermittently down for months, which is why they weren't loading for you. See "About the fix" below.</sub>
 
 <br/>
 
