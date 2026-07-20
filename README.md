@@ -69,10 +69,6 @@ I'm a backend-focused Developer building with **Java** and **Spring Boot** — d
 
 ## 🚀 What I've Built
 
-**[Project Name] — Spring Boot REST API** *(in progress)*
-Tech Stack: Java, Spring Boot, [Database], [Other tools]
-[Describe the core feature or endpoint you've built so far, and the concept you're applying — e.g. layered architecture, JPA/Hibernate, exception handling.]
-
 **[Auctify](https://github.com/Amank-123)** — a real-time auction platform, and my deepest dive into concurrency so far. The core problem was keeping bid state consistent when multiple users bid on the same item at once — solved with Redis Pub/Sub for live state sync and BullMQ for scheduling delayed bid closes. Also layered in a RAG-based support assistant using LangChain + Pinecone so buyers/sellers get contextual answers pulled from real product data instead of a generic chatbot.
 
 **Ninja Deliveries** — during my internship, I worked on the Rider and Customer apps (React Native + Firebase) serving 1K+ users. Shipped QR-based order verification that cut delivery-confirmation errors and built the coupon/referral system from the ground up, including the real-time sync so rewards reflect instantly across devices.
