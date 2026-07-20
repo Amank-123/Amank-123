@@ -1,1 +1,62 @@
+name: Update Stats Cards
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually too
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Generate stats, streak, and trophy cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 📊 Stats card — commits, stars, issues, PRs
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=Amank-123&show_icons=true&hide_border=true&count_private=false&theme=dark'
+          path: profile-assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🧠 Top languages card
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=Amank-123&layout=compact&hide_border=true&theme=dark&langs_count=8'
+          path: profile-assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🔥 Streak stats
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Amank-123&hide_border=true&theme=tokyonight
+          path: profile-assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🏆 Trophy case
+      - name: Generate trophy card
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Amank-123
+          output_path: profile-assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 Commit and push the generated cards straight to main
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-assets/
+          git commit -m "Update stats cards" || exit 0
+          git push
